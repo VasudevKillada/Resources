@@ -10,3 +10,6 @@ Resources:
 3. http://www.bm.ust.hk/isom/files/coursepdf/Courses_UG201718Fall/3370_1718Fall.pdf
 4. https://drive.google.com/drive/folders/12KdN1_-Hk3LF1KFXK3LaMKS-mz_2biHK
 5. https://intellipaat.com/hadoop-1-spark-storm-scala-training/
+
+TOP 10 online courses for best ML online courses
+https://top10onlinecourses.com/best-machine-learning-online-courses/
