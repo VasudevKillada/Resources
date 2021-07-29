@@ -17,12 +17,12 @@ https://top10onlinecourses.com/best-machine-learning-online-courses/
 
 
 ## All Techniques Of Hyper Parameter Optimization
-### GridSearchCV
-### RandomizedSearchCV
-### Bayesian Optimization -Automate Hyperparameter Tuning (Hyperopt)
-### Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
-### Optuna- Automate Hyperparameter Tuning
-### Genetic Algorithms (TPOT Classifier)
+##### GridSearchCV
+##### RandomizedSearchCV
+##### Bayesian Optimization -Automate Hyperparameter Tuning (Hyperopt)
+##### Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
+##### Optuna- Automate Hyperparameter Tuning
+##### Genetic Algorithms (TPOT Classifier)
 
 
 ### References
